@@ -1,0 +1,8 @@
+rawdata/car1.bmp 1 55 108 174 46
+rawdata/car2.bmp 1 80 73 182 48
+rawdata/car3.bmp 1 70 64 159 42
+rawdata/car4.bmp 1 30 86 159 42
+rawdata/car5.bmp 1 59 55 174 46
+rawdata/car6.bmp 1 60 60 148 39
+rawdata/car7.bmp 1 34 95 171 45
+rawdata/car8.bmp 1 99 59 167 44
