@@ -1,1 +1,1 @@
-haarconv.exe ../training/cascades ../../haar_carplate.xml 70 20
+wine ./haarconv.exe ../training/cascades ../../haar_carplate.xml 70 20

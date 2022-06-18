@@ -1,152 +1,85 @@
-rawdata/car1.bmp 1 484 434 59 26
-rawdata/car10.bmp 1 430 359 69 43
-rawdata/car100.bmp 1 367 441 50 25
-rawdata/car101.bmp 1 306 469 71 36
-rawdata/car102.bmp 1 416 460 54 33
-rawdata/car103.bmp 1 353 454 85 39
-rawdata/car104.bmp 1 370 462 92 53
-rawdata/car106.bmp 1 611 452 55 26
-rawdata/car107.bmp 2 574 426 68 32 577 431 64 29
-rawdata/car108.bmp 1 1401 456 84 42
-rawdata/car109.bmp 1 579 463 52 23
-rawdata/car111.bmp 2 619 468 49 22 300 516 88 48
-rawdata/car112.bmp 1 483 459 49 21
-rawdata/car113.bmp 1 561 406 67 33
-rawdata/car114.bmp 1 259 488 78 44
-rawdata/car115.bmp 1 348 458 61 30
-rawdata/car116.bmp 1 136 157 75 32
-rawdata/car117.bmp 1 116 131 75 45
-rawdata/car118.bmp 1 119 178 70 27
-rawdata/car119.bmp 1 130 107 85 52
-rawdata/car12.bmp 1 1456 477 114 63
-rawdata/car120.bmp 1 128 151 72 25
-rawdata/car122.bmp 2 134 139 85 52 141 177 75 36
-rawdata/car123.bmp 1 138 158 74 31
-rawdata/car124.bmp 1 115 131 95 42
-rawdata/car125.bmp 1 124 170 76 32
-rawdata/car126.bmp 1 121 165 79 34
-rawdata/car127.bmp 1 109 188 83 25
-rawdata/car128.bmp 1 112 158 81 44
-rawdata/car129.bmp 1 110 191 81 25
-rawdata/car13.bmp 1 379 446 74 39
-rawdata/car130.bmp 1 100 149 82 41
-rawdata/car131.bmp 1 117 157 75 30
-rawdata/car132.bmp 1 138 163 76 35
-rawdata/car133.bmp 1 129 178 81 35
-rawdata/car134.bmp 1 120 178 95 32
-rawdata/car136.bmp 2 139 169 70 27 123 163 79 37
-rawdata/car137.bmp 1 108 184 82 28
-rawdata/car138.bmp 1 116 172 69 32
-rawdata/car139.bmp 1 132 153 71 31
-rawdata/car14.bmp 2 445 454 69 35
-rawdata/car140.bmp 1 130 120 75 44
-rawdata/car141.bmp 1 123 146 103 42
-rawdata/car142.bmp 1 109 164 119 41
-rawdata/car143.bmp 1 117 132 85 46
-rawdata/car144.bmp 1 121 173 67 26
-rawdata/car145.bmp 1 130 145 70 32
-rawdata/car146.bmp 1 133 105 82 39
-rawdata/car147.bmp 1 111 129 94 36
-rawdata/car148.bmp 1 126 152 71 26
-rawdata/car15.bmp 2 110 177 74 35 485 309 77 53
-rawdata/car150.bmp 1 110 178 82 34
-rawdata/car151.bmp 1 127 138 81 38
-rawdata/car152.bmp 1 131 148 78 43
-rawdata/car154.bmp 2 131 170 84 31 126 153 70 32
-rawdata/car155.bmp 1 114 167 79 36
-rawdata/car156.bmp 1 132 177 80 28
-rawdata/car157.bmp 1 133 177 75 28
-rawdata/car158.bmp 1 127 173 85 36
-rawdata/car159.bmp 1 117 164 80 29
-rawdata/car16.bmp 1 461 471 49 25
-rawdata/car160.bmp 1 113 169 81 39
-rawdata/car161.bmp 1 111 176 85 32
-rawdata/car163.bmp 2 94 152 110 43 127 142 79 48
-rawdata/car164.bmp 1 110 157 82 42
-rawdata/car165.bmp 1 115 147 90 49
-rawdata/car166.bmp 1 104 147 89 43
-rawdata/car167.bmp 1 133 180 84 32
-rawdata/car169.bmp 2 122 171 109 36 124 58 72 33
-rawdata/car170.bmp 1 209 483 68 45
-rawdata/car171.bmp 2 117 71 77 37 122 157 80 23
-rawdata/car173.bmp 2 132 87 75 23 131 56 75 27
-rawdata/car175.bmp 1 139 73 62 39
-rawdata/car176.bmp 1 131 51 70 32
-rawdata/car177.bmp 2 145 71 81 45 119 65 78 31
-rawdata/car179.bmp 2 121 168 73 32 132 175 78 32
-rawdata/car180.bmp 2 524 445 55 29 128 167 80 30
-rawdata/car182.bmp 1 113 187 76 24
-rawdata/car183.bmp 1 124 179 73 32
-rawdata/car184.bmp 1 123 172 73 28
-rawdata/car185.bmp 2 127 156 83 42 116 160 83 35
-rawdata/car186.bmp 1 128 155 78 37
-rawdata/car188.bmp 2 110 171 80 34 108 157 87 37
-rawdata/car19.bmp 2 121 159 81 38 458 460 84 38
-rawdata/car190.bmp 1 122 102 72 26
-rawdata/car192.bmp 2 122 168 85 32 111 164 85 35
-rawdata/car194.bmp 2 118 171 85 37 127 94 71 24
-rawdata/car196.bmp 1 120 106 80 39
-rawdata/car197.bmp 1 139 104 62 29
-rawdata/car198.bmp 1 151 89 74 34
-rawdata/car199.bmp 2 121 99 78 31 125 166 83 33
-rawdata/car2.bmp 1 1321 457 57 31
-rawdata/car200.bmp 1 1390 416 88 43
-rawdata/car201.bmp 2 118 170 81 34 128 183 77 28
-rawdata/car203.bmp 2 116 92 81 30 122 57 74 36
-rawdata/car205.bmp 1 128 95 72 28
-rawdata/car21.bmp 1 124 70 78 36
-rawdata/car22.bmp 2 1570 429 95 44 298 467 60 29
-rawdata/car23.bmp 1 293 472 118 57
-rawdata/car24.bmp 1 350 421 69 43
-rawdata/car25.bmp 1 1416 354 58 34
-rawdata/car26.bmp 1 243 396 77 52
-rawdata/car27.bmp 1 440 489 94 43
-rawdata/car28.bmp 1 638 422 53 22
-rawdata/car29.bmp 1 425 461 92 38
-rawdata/car3.bmp 1 373 474 91 49
-rawdata/car30.bmp 1 487 407 54 26
-rawdata/car32.bmp 2 380 443 77 38 414 476 110 43
-rawdata/car34.bmp 2 403 462 57 24 1606 371 92 53
-rawdata/car36.bmp 2 1486 352 77 31 286 434 68 40
-rawdata/car37.bmp 1 407 453 87 41
-rawdata/car38.bmp 1 331 485 77 37
-rawdata/car4.bmp 1 290 413 61 30
-rawdata/car40.bmp 2 730 500 50 40 371 502 126 57
-rawdata/car42.bmp 1 1092 359 63 44
-rawdata/car43.bmp 2 1097 369 52 30 302 470 70 38
-rawdata/car44.bmp 1 548 430 64 32
-rawdata/car45.bmp 1 1408 493 83 47
-rawdata/car46.bmp 1 406 409 56 40
-rawdata/car48.bmp 2 589 479 74 35 350 511 120 68
-rawdata/car49.bmp 1 211 416 75 42
-rawdata/car5.bmp 1 1348 465 87 40
-rawdata/car51.bmp 2 1524 498 94 58 472 473 62 31
-rawdata/car52.bmp 1 448 370 76 46
-rawdata/car53.bmp 1 393 473 92 51
-rawdata/car54.bmp 1 1241 432 65 28
-rawdata/car55.bmp 1 418 455 63 33
-rawdata/car56.bmp 1 303 471 85 41
-rawdata/car62.bmp 1
-rawdata/car71.bmp 2 516 489 75 39 523 493 69 32
-rawdata/car72.bmp 2 354 428 33 44 349 429 72 42
-rawdata/car74.bmp 1 303 491 105 57
-rawdata/car75.bmp 2 494 431 47 28 572 488 48 24
-rawdata/car77.bmp 2 404 391 63 37 450 475 72 32
-rawdata/car78.bmp 1 276 486 113 43
-rawdata/car8.bmp 2 550 434 61 32 390 466 55 29
-rawdata/car80.bmp 1 1492 442 70 33
-rawdata/car81.bmp 1 500 404 62 30
-rawdata/car82.bmp 1 1304 464 82 36
-rawdata/car83.bmp 1 255 480 63 30
-rawdata/car85.bmp 1 301 428 69 33
-rawdata/car86.bmp 2 414 499 67 25 1489 585 83 46
-rawdata/car88.bmp 2 1578 508 107 59 310 512 82 36
-rawdata/car9.bmp 2 451 479 52 25 426 423 51 27
-rawdata/car91.bmp 1 333 498 57 27
-rawdata/car92.bmp 1 285 484 83 43
-rawdata/car93.bmp 1 442 444 52 26
-rawdata/car94.bmp 2 565 497 54 25 381 471 61 29
-rawdata/car95.bmp 1 523 417 47 22
-rawdata/car96.bmp 1 456 454 60 31
-rawdata/car97.bmp 1 1312 403 67 34
-rawdata/car99.bmp 1 384 476 51 31
+rawdata/car116.bmp 1 135 157 76 33
+rawdata/car117.bmp 1 120 135 72 41
+rawdata/car118.bmp 1 119 179 69 28
+rawdata/car119.bmp 1 132 107 83 53
+rawdata/car120.bmp 1 131 151 67 26
+rawdata/car121.bmp 1 134 141 85 49
+rawdata/car123.bmp 2 143 179 73 33 140 157 71 34
+rawdata/car125.bmp 2 114 130 96 43 124 166 77 35
+rawdata/car127.bmp 2 121 164 79 34 110 185 83 29
+rawdata/car128.bmp 1 112 161 80 39
+rawdata/car129.bmp 1 110 187 78 29
+rawdata/car131.bmp 2 102 150 79 35 120 158 70 32
+rawdata/car132.bmp 1 141 167 72 30
+rawdata/car133.bmp 1 128 177 83 36
+rawdata/car134.bmp 1 120 175 94 37
+rawdata/car135.bmp 1 138 166 71 32
+rawdata/car136.bmp 2 128 167 69 35 119 166 83 35
+rawdata/car137.bmp 1 109 183 81 29
+rawdata/car138.bmp 1 116 174 68 28
+rawdata/car139.bmp 1 132 156 71 27
+rawdata/car140.bmp 1 132 123 71 37
+rawdata/car141.bmp 1 124 150 100 37
+rawdata/car142.bmp 1 112 169 117 39
+rawdata/car144.bmp 2 116 131 88 49 117 173 72 26
+rawdata/car145.bmp 1 129 149 70 27
+rawdata/car146.bmp 1 133 104 80 42
+rawdata/car147.bmp 1 109 131 96 37
+rawdata/car148.bmp 1 128 153 68 27
+rawdata/car149.bmp 1 108 181 78 30
+rawdata/car150.bmp 1 112 182 80 30
+rawdata/car151.bmp 1 126 136 86 38
+rawdata/car152.bmp 1 129 147 82 44
+rawdata/car153.bmp 1 129 169 88 36
+rawdata/car154.bmp 1 127 154 70 31
+rawdata/car155.bmp 1 113 166 82 39
+rawdata/car156.bmp 1 134 177 80 29
+rawdata/car157.bmp 1 131 174 79 33
+rawdata/car158.bmp 1 127 172 86 40
+rawdata/car159.bmp 1 99 161 97 34
+rawdata/car160.bmp 1 111 171 82 36
+rawdata/car161.bmp 1 112 176 85 32
+rawdata/car162.bmp 1 97 155 107 43
+rawdata/car163.bmp 1 128 142 79 49
+rawdata/car164.bmp 1 111 159 81 38
+rawdata/car165.bmp 1 120 148 84 51
+rawdata/car166.bmp 1 108 147 85 42
+rawdata/car167.bmp 1 135 182 82 31
+rawdata/car168.bmp 1 118 168 114 40
+rawdata/car169.bmp 1 123 57 74 34
+rawdata/car170.bmp 1 117 69 77 38
+rawdata/car171.bmp 1 120 157 81 25
+rawdata/car172.bmp 1 134 82 70 30
+rawdata/car173.bmp 1 131 54 77 30
+rawdata/car174.bmp 2 138 72 65 38 135 72 67 40
+rawdata/car175.bmp 1 132 52 69 31
+rawdata/car176.bmp 1 148 69 76 46
+rawdata/car177.bmp 1 113 65 84 33
+rawdata/car178.bmp 1 122 169 70 30
+rawdata/car179.bmp 1 134 173 77 33
+rawdata/car180.bmp 1 128 167 81 31
+rawdata/car181.bmp 1 111 182 82 29
+rawdata/car182.bmp 1 123 182 75 26
+rawdata/car183.bmp 1 123 172 72 28
+rawdata/car184.bmp 1 127 164 80 35
+rawdata/car185.bmp 1 117 157 82 38
+rawdata/car186.bmp 1 130 155 74 36
+rawdata/car187.bmp 1 109 173 84 33
+rawdata/car188.bmp 1 106 158 92 36
+rawdata/car189.bmp 1 117 159 82 42
+rawdata/car190.bmp 1 123 105 75 25
+rawdata/car191.bmp 1 122 158 86 45
+rawdata/car192.bmp 1 109 162 89 39
+rawdata/car193.bmp 1 117 169 87 38
+rawdata/car194.bmp 1 124 90 75 28
+rawdata/car195.bmp 1 125 98 79 48
+rawdata/car196.bmp 1 137 106 65 29
+rawdata/car197.bmp 1 155 83 72 42
+rawdata/car198.bmp 1 121 99 78 27
+rawdata/car199.bmp 1 128 163 81 37
+rawdata/car200.bmp 1 119 171 81 33
+rawdata/car201.bmp 2 129 183 77 26 129 183 77 26
+rawdata/car202.bmp 1 118 91 79 28
+rawdata/car203.bmp 1 119 56 79 38
+rawdata/car204.bmp 1 130 97 71 25
+rawdata/car205.bmp 1 121 71 79 32
